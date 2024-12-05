@@ -9,6 +9,7 @@ This is a masterschool project, I will include a summary of the project,a power 
 - Metrocar Project.ppt
 - Metrocar Project.ipynb
 - Executive summary
+- Metrocar SQL questions and answers
 
 ## Links to resources
 - [video Presentation](https://drive.google.com/file/d/19M7UK9KC3Nq9V8GLVOv3NHginDTTkRtY/view?usp=sharing)
