@@ -18,10 +18,27 @@ This is a masterschool project, I will include a summary of the project,a power 
 
 Metrocar Project: Performance Analysis Overview
 
-This project analyzes Metrocar’s key performance metrics to improve user retention, engagement, and revenue. Key findings include:
-	•	Critical Drop-Off Points: Ride completion (49.8%) is the weakest stage. Solutions include simplifying signups, improving payment setups, and enhancing driver availability.
-	•	Platform Insights: iOS leads with 60.5% of users, while Android (29.4%) and Web (10.1%) present growth opportunities.
-	•	Target Audience: Focus on the 35-44 and 25-34 age groups, while reducing data gaps (30.1% unknown age data).
-	•	Demand and Surge Pricing: Peak demand at 8 AM is ideal for surge pricing tests.
+This project applies data analytics to optimize the Metrocar platform by identifying user drop-offs, improving conversions, and refining revenue strategies. Using data extraction from a PostgreSQL database and tools like Pandas, NumPy, and Plotly, the project highlights key insights into user behavior and platform performance.
 
-Recommendations: Streamline user flows, optimize platform performance, target high-priority demographics, and improve the ride experience to increase conversions and satisfaction.
+Methodology:
+
+	•	Data Extraction: Retrieved key datasets (app downloads, ride requests, demographics) via SQLAlchemy.
+	•	Exploratory Data Analysis (EDA): Cleaned and visualized data to uncover trends and drop-off points.
+	•	Funnel Analysis: Identified significant drop-offs during signup, ride requests, and ride completion stages.
+	•	Demographic Insights: Analyzed user age groups to target high-engagement segments.
+	•	Surge Pricing Analysis: Recommended dynamic pricing strategies based on peak demand.
+
+Key Findings:
+
+	•	Drop-Off Issues: Focus on reducing cancellations and improving driver availability.
+	•	Platform Insights: iOS dominates (60.5%), with opportunities for Android and web optimization.
+	•	Target Demographics: Focus on users aged 35-44, with younger tech-savvy users (18-24) showing growth potential.
+
+Recommendations:
+
+	•	Simplify user flows and improve payment systems.
+	•	Prioritize iOS marketing and optimize Android/web platforms.
+	•	Implement surge pricing and adjust dynamically.
+	•	Increase driver availability and professionalism to improve user satisfaction.
+
+This project demonstrates how data-driven insights can enhance user retention, drive conversions, and fuel growth on the Metrocar platform.
